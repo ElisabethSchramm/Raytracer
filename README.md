@@ -1,2 +1,1 @@
-Altes Projekt, momentan nur Sourcecode
-Java
+Altes Projekt in Java mit Swing, nur Sourcecode
